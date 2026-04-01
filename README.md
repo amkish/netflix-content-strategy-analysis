@@ -1,4 +1,6 @@
+---
 # Netflix Content Strategy and Catalogue Analysis using Python
+---
 
 A Python portfolio project exploring how Netflix’s catalogue has evolved over time through content growth, format balance, geographic concentration, category structure, and recurring description themes.
 
@@ -64,7 +66,7 @@ netflix-content-strategy-analysis/
 
 ## How to Run
 ```bash
-git clone https://github.com/your-username/netflix-content-strategy-analysis.git
+git clone https://github.com/amkish/netflix-content-strategy-analysis.git
 cd netflix-content-strategy-analysis
 
 python3 -m venv .venv
@@ -73,5 +75,6 @@ pip install -r requirements.txt
 ```
 
 ## About Me
+
 Nnaemeka Sinclaire Ndubuisi
-Data Analyst | Data Scientist
+  - Data Analyst | Data Scientist
